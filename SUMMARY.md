@@ -34,8 +34,8 @@
   * [物业服务](chapter1/wu-ye-fu-wu.md)
     * [个人访客](chapter1/wu-ye-fu-wu/ge-ren-fang-ke.md)
       * [个人访客一览](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ge-ren-fang-ke-yi-lan.md)
-        * 修改/删除
-        * 基本信息
+        * [修改/删除](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ge-ren-fang-ke-yi-lan/xiu-6539-shan-chu.md)
+        * [基本信息](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ge-ren-fang-ke-yi-lan/ji-ben-xin-xi.md)
         * 工作推进方法说明
         * 表单：个人访客
         * 回复一览
