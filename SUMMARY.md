@@ -40,7 +40,7 @@
         * [表单：个人访客](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ge-ren-fang-ke-yi-lan/biao-dan-ff1a-ge-ren-fang-ke.md)
         * [回复一览](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ge-ren-fang-ke-yi-lan/hui-fu-yi-lan.md)
         * [事件](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ge-ren-fang-ke-yi-lan/shi-jian.md)
-      * 个人访客工作票
+      * [个人访客工作票](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ge-ren-fang-ke-gong-zuo-piao.md)
       * 修改/删除个人访客信息
       * 举例说明
     * [批量访客](chapter1/wu-ye-fu-wu/pi-liang-fang-ke.md)
