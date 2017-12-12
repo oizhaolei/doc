@@ -36,10 +36,10 @@
       * [个人访客一览](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ge-ren-fang-ke-yi-lan.md)
         * [修改/删除](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ge-ren-fang-ke-yi-lan/xiu-6539-shan-chu.md)
         * [基本信息](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ge-ren-fang-ke-yi-lan/ji-ben-xin-xi.md)
-        * 工作推进方法说明
-        * 表单：个人访客
-        * 回复一览
-        * 事件
+        * [工作推进方法说明](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ge-ren-fang-ke-yi-lan/gong-zuo-tui-jin-fang-fa-shuo-ming.md)
+        * [表单：个人访客](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ge-ren-fang-ke-yi-lan/biao-dan-ff1a-ge-ren-fang-ke.md)
+        * [回复一览](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ge-ren-fang-ke-yi-lan/hui-fu-yi-lan.md)
+        * [事件](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ge-ren-fang-ke-yi-lan/shi-jian.md)
       * 个人访客工作票
       * 修改/删除个人访客信息
       * 举例说明
