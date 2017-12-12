@@ -41,8 +41,8 @@
         * [回复一览](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ge-ren-fang-ke-yi-lan/hui-fu-yi-lan.md)
         * [事件](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ge-ren-fang-ke-yi-lan/shi-jian.md)
       * [个人访客工作票](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ge-ren-fang-ke-gong-zuo-piao.md)
-      * 修改/删除个人访客信息
-      * 举例说明
+      * [修改/删除个人访客信息](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/xiu-6539-shan-chu-ge-ren-fang-ke-xin-xi.md)
+      * [举例流程说明](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ju-li-shuo-ming.md)
     * [批量访客](chapter1/wu-ye-fu-wu/pi-liang-fang-ke.md)
       * [批量访客一览](chapter1/wu-ye-fu-wu/pi-liang-fang-ke/pi-liang-fang-ke-yi-lan.md)
         * 修改/删除
