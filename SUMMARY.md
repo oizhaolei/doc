@@ -20,8 +20,8 @@
         * [集体充值](chapter1/qi-ye-guan-li/qi-ye-guan-li/qi-ye-xin-xi-gai-lan/ji-ti-chong-zhi.md)
         * [企业员工列表](chapter1/qi-ye-guan-li/qi-ye-guan-li/qi-ye-xin-xi-gai-lan/qi-ye-yuan-gong-lie-biao.md)
         * [水电抄表](chapter1/qi-ye-guan-li/qi-ye-guan-li/qi-ye-xin-xi-gai-lan/shui-dian-chao-biao.md)
-      * 新建企业信息
-      * 修改/删除企业信息
+      * [新建企业信息](chapter1/qi-ye-guan-li/qi-ye-guan-li/xin-jian-qi-ye-xin-xi.md)
+      * [修改/删除企业信息](chapter1/qi-ye-guan-li/qi-ye-guan-li/xiu-6539-shan-chu-qi-ye-xin-xi.md)
     * [企业员工管理](chapter1/qi-ye-guan-li/qi-ye-yuan-gong-guan-li.md)
       * 企业员工概览
         * 基本信息
