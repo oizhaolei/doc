@@ -10,7 +10,7 @@
     * [个人信息](chapter1/yi-da-li-ze-zhi-hui-yuan-qu-gai-lan/ge-ren-xin-xi.md)
   * [基础设施](chapter1/ji-chu-she-shi.md)
     * [建筑一览](chapter1/ji-chu-she-shi/jian-zhu-yi-lan.md)
-    * 新建建筑
+    * [新建建筑](chapter1/ji-chu-she-shi/xin-jian-jian-zhu.md)
     * [修改/删除建筑](chapter1/ji-chu-she-shi/xiu-gai-3002-shan-chu-jian-zhu.md)
   * [企业管理](chapter1/qi-ye-guan-li.md)
     * [企业管理](chapter1/qi-ye-guan-li/qi-ye-guan-li.md)
