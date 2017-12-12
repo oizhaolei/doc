@@ -14,9 +14,9 @@
     * [修改/删除建筑](chapter1/ji-chu-she-shi/xiu-gai-3002-shan-chu-jian-zhu.md)
   * [企业管理](chapter1/qi-ye-guan-li.md)
     * [企业管理](chapter1/qi-ye-guan-li/qi-ye-guan-li.md)
-      * [企业信息概览](chapter1/qi-ye-guan-li/qi-ye-guan-li/qi-ye-xin-xi-gai-lan.md)
-        * 基本信息
-        * 修改/删除
+      * [企业信息一览](chapter1/qi-ye-guan-li/qi-ye-guan-li/qi-ye-xin-xi-gai-lan.md)
+        * [基本信息](chapter1/qi-ye-guan-li/qi-ye-guan-li/qi-ye-xin-xi-gai-lan/ji-ben-xin-xi.md)
+        * [修改/删除](chapter1/qi-ye-guan-li/qi-ye-guan-li/qi-ye-xin-xi-gai-lan/xiu-6539-shan-chu.md)
         * 集体充值
         * 企业员工列表
         * 水电抄表
