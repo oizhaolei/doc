@@ -23,13 +23,14 @@
       * [新建企业信息](chapter1/qi-ye-guan-li/qi-ye-guan-li/xin-jian-qi-ye-xin-xi.md)
       * [修改/删除企业信息](chapter1/qi-ye-guan-li/qi-ye-guan-li/xiu-6539-shan-chu-qi-ye-xin-xi.md)
     * [企业员工管理](chapter1/qi-ye-guan-li/qi-ye-yuan-gong-guan-li.md)
-      * 企业员工概览
-        * 基本信息
-        * 发信息
-        * 相关工作票
-        * 事件
-      * 新建企业员工
-      * 修改/删除企业员工
+      * [企业员工一览](chapter1/qi-ye-guan-li/qi-ye-yuan-gong-guan-li/qi-ye-yuan-gong-gai-lan.md)
+        * [基本信息](chapter1/qi-ye-guan-li/qi-ye-yuan-gong-guan-li/qi-ye-yuan-gong-gai-lan/ji-ben-xin-xi.md)
+          * 修改/删除
+        * [修改/删除企业员工](chapter1/qi-ye-guan-li/qi-ye-yuan-gong-guan-li/qi-ye-yuan-gong-gai-lan/xiu-6539-shan-chu-qi-ye-yuan-gong.md)
+        * [发信息](chapter1/qi-ye-guan-li/qi-ye-yuan-gong-guan-li/qi-ye-yuan-gong-gai-lan/fa-xin-xi.md)
+        * [事件](chapter1/qi-ye-guan-li/qi-ye-yuan-gong-guan-li/qi-ye-yuan-gong-gai-lan/shi-jian.md)
+      * [新建企业员工](chapter1/qi-ye-guan-li/qi-ye-yuan-gong-guan-li/xin-jian-qi-ye-yuan-gong.md)
+      * [修改/删除企业员工信息](chapter1/qi-ye-guan-li/qi-ye-yuan-gong-guan-li/xiu-6539-shan-chu-qi-ye-yuan-gong-xin-xi.md)
   * [物业服务](chapter1/wu-ye-fu-wu.md)
     * [个人访客](chapter1/wu-ye-fu-wu/ge-ren-fang-ke.md)
       * [个人访客一览](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ge-ren-fang-ke-yi-lan.md)
