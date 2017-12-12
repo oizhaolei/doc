@@ -7,7 +7,7 @@
     * [主页面](chapter1/yi-da-li-ze-zhi-hui-yuan-qu-gai-lan/zhu-ye-mian.md)
     * [通知](chapter1/yi-da-li-ze-zhi-hui-yuan-qu-gai-lan/tong-zhi.md)
     * [任务](chapter1/yi-da-li-ze-zhi-hui-yuan-qu-gai-lan/ren-wu.md)
-    * 个人信息
+    * [个人信息](chapter1/yi-da-li-ze-zhi-hui-yuan-qu-gai-lan/ge-ren-xin-xi.md)
   * [基础设施](chapter1/ji-chu-she-shi.md)
     * 建筑一览
     * 新建建筑
