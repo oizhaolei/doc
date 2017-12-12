@@ -45,9 +45,9 @@
       * [举例流程说明](chapter1/wu-ye-fu-wu/ge-ren-fang-ke/ju-li-shuo-ming.md)
     * [批量访客](chapter1/wu-ye-fu-wu/pi-liang-fang-ke.md)
       * [批量访客一览](chapter1/wu-ye-fu-wu/pi-liang-fang-ke/pi-liang-fang-ke-yi-lan.md)
-        * 修改/删除
-        * 基本信息
-        * 工作方法推进说明
+        * [修改/删除](chapter1/wu-ye-fu-wu/pi-liang-fang-ke/pi-liang-fang-ke-yi-lan/xiu-6539-shan-chu.md)
+        * [基本信息](chapter1/wu-ye-fu-wu/pi-liang-fang-ke/pi-liang-fang-ke-yi-lan/ji-ben-xin-xi.md)
+        * [工作方法推进说明](chapter1/wu-ye-fu-wu/pi-liang-fang-ke/pi-liang-fang-ke-yi-lan/gong-zuo-fang-fa-tui-jin-shuo-ming.md)
         * 回复一览
         * 表单：批量访客
         * 事件
