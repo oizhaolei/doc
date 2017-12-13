@@ -173,7 +173,7 @@
         * [事件](chapter1/wu-ye-fu-wu/wu-pin-fang-chu/wu-pin-fang-chu-yi-lan/shi-jian.md)
       * [物品放出工作票](chapter1/wu-ye-fu-wu/wu-pin-fang-chu/wu-pin-fang-chu-gong-zuo-piao.md)
       * [修改/删除物品放出信息](chapter1/wu-ye-fu-wu/wu-pin-fang-chu/xiu-6539-shan-chu-wu-pin-fang-chu-xin-xi.md)
-      * 举例流程说明
+      * [举例流程说明](chapter1/wu-ye-fu-wu/wu-pin-fang-chu/ju-li-liu-cheng-shuo-ming.md)
     * 退租
       * 退租一览
         * 修改/删除
