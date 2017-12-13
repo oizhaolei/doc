@@ -108,7 +108,7 @@
         * [事件](chapter1/wu-ye-fu-wu/yin-bi-gong-cheng-yan-shou-shen-qing/yin-bi-gong-cheng-yan-shou-shen-qing-yi-lan/shi-jian.md)
       * [隐蔽工程验收申请工作票](chapter1/wu-ye-fu-wu/yin-bi-gong-cheng-yan-shou-shen-qing/yin-bi-gong-cheng-yan-shou-shen-qing-gong-zuo-piao.md)
       * [修改/删除隐蔽工程验收申请信息](chapter1/wu-ye-fu-wu/yin-bi-gong-cheng-yan-shou-shen-qing/xiu-6539-shan-chu-yin-bi-gong-cheng-yan-shou-shen-qing-xin-xi.md)
-      * 举例流程说明
+      * [举例流程说明](chapter1/wu-ye-fu-wu/yin-bi-gong-cheng-yan-shou-shen-qing/ju-li-liu-cheng-shuo-ming.md)
     * 房屋交接
       * 房屋交接一览
         * 修改/删除
