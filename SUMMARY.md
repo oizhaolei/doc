@@ -129,7 +129,7 @@
         * [事件](chapter1/wu-ye-fu-wu/bao-xiu-wei-xiu/bao-xiu-wei-xiu-yi-lan/shi-jian.md)
       * [报修维修工作票](chapter1/wu-ye-fu-wu/bao-xiu-wei-xiu/bao-xiu-wei-xiu-gong-zuo-piao.md)
       * [修改/删除报修维修信息](chapter1/wu-ye-fu-wu/bao-xiu-wei-xiu/xiu-6539-shan-chu-bao-xiu-wei-xiu-xin-xi.md)
-      * 举例流程说明
+      * [举例流程说明](chapter1/wu-ye-fu-wu/bao-xiu-wei-xiu/ju-li-liu-cheng-shuo-ming.md)
     * [预约参观](chapter1/wu-ye-fu-wu/yu-yue-can-guan.md)
       * 预约参观一览
         * 修改/删除
