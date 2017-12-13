@@ -174,16 +174,15 @@
       * [物品放出工作票](chapter1/wu-ye-fu-wu/wu-pin-fang-chu/wu-pin-fang-chu-gong-zuo-piao.md)
       * [修改/删除物品放出信息](chapter1/wu-ye-fu-wu/wu-pin-fang-chu/xiu-6539-shan-chu-wu-pin-fang-chu-xin-xi.md)
       * [举例流程说明](chapter1/wu-ye-fu-wu/wu-pin-fang-chu/ju-li-liu-cheng-shuo-ming.md)
-    * 退租
-      * 退租一览
-        * 修改/删除
-        * 基本信息
-        * 公众推进方法
-        * 回复一览
-        * 表单：退租
-        * 事件
-      * 退租工作票
-      * 修改/删除退租信息
+    * [退租](chapter1/wu-ye-fu-wu/tui-zu.md)
+      * [退租一览](chapter1/wu-ye-fu-wu/tui-zu/tui-zu-yi-lan.md)
+        * [修改/删除](chapter1/wu-ye-fu-wu/tui-zu/tui-zu-yi-lan/xiu-6539-shan-chu.md)
+        * [基本信息](chapter1/wu-ye-fu-wu/tui-zu/tui-zu-yi-lan/ji-ben-xin-xi.md)
+        * [工作推进方法](chapter1/wu-ye-fu-wu/tui-zu/tui-zu-yi-lan/gong-zhong-tui-jin-fang-fa.md)
+        * [回复一览](chapter1/wu-ye-fu-wu/tui-zu/tui-zu-yi-lan/hui-fu-yi-lan.md)
+        * [表单：退租](chapter1/wu-ye-fu-wu/tui-zu/tui-zu-yi-lan/biao-dan-ff1a-tui-zu.md)
+      * [退租工作票](chapter1/wu-ye-fu-wu/tui-zu/tui-zu-gong-zuo-piao.md)
+      * [修改/删除退租信息](chapter1/wu-ye-fu-wu/tui-zu/xiu-6539-shan-chu-tui-zu-xin-xi.md)
       * 举例说明
   * 消息管理
     * 新建消息
