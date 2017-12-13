@@ -97,7 +97,7 @@
         * [事件](chapter1/wu-ye-fu-wu/wu-pin-fang-ru/wu-pin-fang-ru-yi-lan/shi-jian.md)
       * [物品放入工作票](chapter1/wu-ye-fu-wu/wu-pin-fang-ru/wu-pin-fang-ru-gong-zuo-piao.md)
       * [修改/删除物品放入信息](chapter1/wu-ye-fu-wu/wu-pin-fang-ru/xiu-6539-shan-chu-wu-pin-fang-ru-xin-xi.md)
-      * 举例说明
+      * [举例流程说明](chapter1/wu-ye-fu-wu/wu-pin-fang-ru/ju-li-liu-cheng-shuo-ming.md)
     * [隐蔽工程验收申请](chapter1/wu-ye-fu-wu/yin-bi-gong-cheng-yan-shou-shen-qing.md)
       * [隐蔽工程验收申请一览](chapter1/wu-ye-fu-wu/yin-bi-gong-cheng-yan-shou-shen-qing/yin-bi-gong-cheng-yan-shou-shen-qing-yi-lan.md)
         * 修改/删除
