@@ -131,10 +131,11 @@
       * [修改/删除报修维修信息](chapter1/wu-ye-fu-wu/bao-xiu-wei-xiu/xiu-6539-shan-chu-bao-xiu-wei-xiu-xin-xi.md)
       * [举例流程说明](chapter1/wu-ye-fu-wu/bao-xiu-wei-xiu/ju-li-liu-cheng-shuo-ming.md)
     * [预约参观](chapter1/wu-ye-fu-wu/yu-yue-can-guan.md)
-      * 预约参观一览
-        * 修改/删除
-        * 工作推进方法说明
-        * 回复一览
+      * [预约参观一览](chapter1/wu-ye-fu-wu/yu-yue-can-guan/yu-yue-can-guan-yi-lan.md)
+        * [基本信息](chapter1/wu-ye-fu-wu/yu-yue-can-guan/yu-yue-can-guan-yi-lan/ji-ben-xin-xi.md)
+        * [修改/删除](chapter1/wu-ye-fu-wu/yu-yue-can-guan/yu-yue-can-guan-yi-lan/xiu-6539-shan-chu.md)
+        * [工作推进方法说明](chapter1/wu-ye-fu-wu/yu-yue-can-guan/yu-yue-can-guan-yi-lan/gong-zuo-tui-jin-fang-fa-shuo-ming.md)
+        * [回复一览](chapter1/wu-ye-fu-wu/yu-yue-can-guan/yu-yue-can-guan-yi-lan/hui-fu-yi-lan.md)
         * 表单：预约参观
         * 事件
       * 预览参观工作票
