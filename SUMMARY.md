@@ -142,8 +142,8 @@
       * [修改/删除预约参观信息](chapter1/wu-ye-fu-wu/yu-yue-can-guan/xiu-6539-shan-chu-yu-yue-can-guan-xin-xi.md)
       * [举例流程说明](chapter1/wu-ye-fu-wu/yu-yue-can-guan/ju-li-shuo-ming.md)
     * 入驻
-      * 入驻一览
-        * 修改/删除
+      * [入驻一览](chapter1/wu-ye-fu-wu/ru-zhu-yi-lan.md)
+        * [修改/删除](chapter1/wu-ye-fu-wu/ru-zhu-yi-lan/xiu-6539-shan-chu.md)
         * 基本信息
         * 工作推进方法说明
         * 回复一览
