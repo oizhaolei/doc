@@ -84,9 +84,9 @@
         * [回复一览](chapter1/wu-ye-fu-wu/zhuang-xiu-shen-qing-yi-lan/hui-fu-yi-lan.md)
         * [表单：装修申请](chapter1/wu-ye-fu-wu/zhuang-xiu-shen-qing-yi-lan/biao-dan-ff1a-zhuang-xiu-shen-qing.md)
         * [事件](chapter1/wu-ye-fu-wu/zhuang-xiu-shen-qing-yi-lan/shi-jian.md)
-      * 装修申请工作票
-      * 修改/删除装修申请信息
-      * 举例说明
+      * [装修申请工作票](chapter1/wu-ye-fu-wu/zhuang-xiu-shen-qing-gong-zuo-piao.md)
+      * [修改/删除装修申请信息](chapter1/wu-ye-fu-wu/xiu-6539-shan-chu-zhuang-xiu-shen-qing-xin-xi.md)
+      * [举例流程说明](chapter1/wu-ye-fu-wu/ju-li-liu-cheng-shuo-ming.md)
     * 物品放入
       * 物品放入一览
         * 修改/删除
