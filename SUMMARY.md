@@ -185,7 +185,7 @@
       * [退租工作票](chapter1/wu-ye-fu-wu/tui-zu/tui-zu-gong-zuo-piao.md)
       * [修改/删除退租信息](chapter1/wu-ye-fu-wu/tui-zu/xiu-6539-shan-chu-tui-zu-xin-xi.md)
       * [举例流程说明](chapter1/wu-ye-fu-wu/tui-zu/ju-li-shuo-ming.md)
-  * 消息管理
+  * [消息管理](chapter1/xiao-xi-guan-li.md)
     * 新建消息
     * 显示消息
   * [系统管理](chapter1/xi-tong-guan-li.md)
