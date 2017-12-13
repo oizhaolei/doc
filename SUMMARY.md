@@ -76,7 +76,7 @@
       * [竣工验收工作票](chapter1/wu-ye-fu-wu/jun-gong-yan-shou-gong-zuo-piao.md)
       * [修改/删除竣工验收信息](chapter1/wu-ye-fu-wu/xiu-6539-shan-chu-jun-gong-yan-shou-xin-xi.md)
       * [举例流程说明](chapter1/wu-ye-fu-wu/ju-li-liu-cheng-shuo-ming.md)
-    * 装修申请
+    * [装修申请](chapter1/wu-ye-fu-wu/zhuang-xiu-shen-qing.md)
       * [装修申请一览](chapter1/wu-ye-fu-wu/zhuang-xiu-shen-qing-yi-lan.md)
         * [修改/删除](chapter1/wu-ye-fu-wu/zhuang-xiu-shen-qing-yi-lan/xiu-6539-shan-chu.md)
         * [基本信息](chapter1/wu-ye-fu-wu/zhuang-xiu-shen-qing-yi-lan/ji-ben-xin-xi.md)
@@ -87,16 +87,16 @@
       * [装修申请工作票](chapter1/wu-ye-fu-wu/zhuang-xiu-shen-qing-gong-zuo-piao.md)
       * [修改/删除装修申请信息](chapter1/wu-ye-fu-wu/xiu-6539-shan-chu-zhuang-xiu-shen-qing-xin-xi.md)
       * [举例流程说明](chapter1/wu-ye-fu-wu/ju-li-liu-cheng-shuo-ming.md)
-    * 物品放入
-      * 物品放入一览
-        * 修改/删除
-        * 基本信息
-        * 工作推进方法说明
-        * 回复一览
-        * 表单：物品放入
-        * 事件
-      * 物品放入工作票
-      * 修改/删除物品放入信息
+    * [物品放入](chapter1/wu-ye-fu-wu/wu-pin-fang-ru.md)
+      * [物品放入一览](chapter1/wu-ye-fu-wu/wu-pin-fang-ru/wu-pin-fang-ru-yi-lan.md)
+        * [修改/删除](chapter1/wu-ye-fu-wu/wu-pin-fang-ru/wu-pin-fang-ru-yi-lan/xiu-6539-shan-chu.md)
+        * [基本信息](chapter1/wu-ye-fu-wu/wu-pin-fang-ru/wu-pin-fang-ru-yi-lan/ji-ben-xin-xi.md)
+        * [工作推进方法说明](chapter1/wu-ye-fu-wu/wu-pin-fang-ru/wu-pin-fang-ru-yi-lan/gong-zuo-tui-jin-fang-fa-shuo-ming.md)
+        * [回复一览](chapter1/wu-ye-fu-wu/wu-pin-fang-ru/wu-pin-fang-ru-yi-lan/hui-fu-yi-lan.md)
+        * [表单：物品放入](chapter1/wu-ye-fu-wu/wu-pin-fang-ru/wu-pin-fang-ru-yi-lan/biao-dan-ff1a-wu-pin-fang-ru.md)
+        * [事件](chapter1/wu-ye-fu-wu/wu-pin-fang-ru/wu-pin-fang-ru-yi-lan/shi-jian.md)
+      * [物品放入工作票](chapter1/wu-ye-fu-wu/wu-pin-fang-ru/wu-pin-fang-ru-gong-zuo-piao.md)
+      * [修改/删除物品放入信息](chapter1/wu-ye-fu-wu/wu-pin-fang-ru/xiu-6539-shan-chu-wu-pin-fang-ru-xin-xi.md)
       * 举例说明
     * [隐蔽工程验收申请](chapter1/wu-ye-fu-wu/yin-bi-gong-cheng-yan-shou-shen-qing.md)
       * [隐蔽工程验收申请一览](chapter1/wu-ye-fu-wu/yin-bi-gong-cheng-yan-shou-shen-qing/yin-bi-gong-cheng-yan-shou-shen-qing-yi-lan.md)
