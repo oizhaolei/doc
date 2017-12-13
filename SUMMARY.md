@@ -78,12 +78,12 @@
       * [举例流程说明](chapter1/wu-ye-fu-wu/ju-li-liu-cheng-shuo-ming.md)
     * 装修申请
       * [装修申请一览](chapter1/wu-ye-fu-wu/zhuang-xiu-shen-qing-yi-lan.md)
-        * 修改/删除
-        * 基本信息
-        * 工作推进方法说明
-        * 回复一览
-        * 表单：装修申请
-        * 事件
+        * [修改/删除](chapter1/wu-ye-fu-wu/zhuang-xiu-shen-qing-yi-lan/xiu-6539-shan-chu.md)
+        * [基本信息](chapter1/wu-ye-fu-wu/zhuang-xiu-shen-qing-yi-lan/ji-ben-xin-xi.md)
+        * [工作推进方法说明](chapter1/wu-ye-fu-wu/zhuang-xiu-shen-qing-yi-lan/gong-zuo-tui-jin-fang-fa-shuo-ming.md)
+        * [回复一览](chapter1/wu-ye-fu-wu/zhuang-xiu-shen-qing-yi-lan/hui-fu-yi-lan.md)
+        * [表单：装修申请](chapter1/wu-ye-fu-wu/zhuang-xiu-shen-qing-yi-lan/biao-dan-ff1a-zhuang-xiu-shen-qing.md)
+        * [事件](chapter1/wu-ye-fu-wu/zhuang-xiu-shen-qing-yi-lan/shi-jian.md)
       * 装修申请工作票
       * 修改/删除装修申请信息
       * 举例说明
