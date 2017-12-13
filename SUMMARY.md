@@ -181,9 +181,10 @@
         * [工作推进方法](chapter1/wu-ye-fu-wu/tui-zu/tui-zu-yi-lan/gong-zhong-tui-jin-fang-fa.md)
         * [回复一览](chapter1/wu-ye-fu-wu/tui-zu/tui-zu-yi-lan/hui-fu-yi-lan.md)
         * [表单：退租](chapter1/wu-ye-fu-wu/tui-zu/tui-zu-yi-lan/biao-dan-ff1a-tui-zu.md)
+        * [事件](chapter1/wu-ye-fu-wu/tui-zu/tui-zu-yi-lan/shi-jian.md)
       * [退租工作票](chapter1/wu-ye-fu-wu/tui-zu/tui-zu-gong-zuo-piao.md)
       * [修改/删除退租信息](chapter1/wu-ye-fu-wu/tui-zu/xiu-6539-shan-chu-tui-zu-xin-xi.md)
-      * 举例说明
+      * [举例流程说明](chapter1/wu-ye-fu-wu/tui-zu/ju-li-shuo-ming.md)
   * 消息管理
     * 新建消息
     * 显示消息
