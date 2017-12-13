@@ -156,24 +156,24 @@
       * [押金退还一览](chapter1/wu-ye-fu-wu/ya-jin-tui-huan/ya-jin-tui-huan-yi-lan.md)
         * [修改/删除](chapter1/wu-ye-fu-wu/ya-jin-tui-huan/ya-jin-tui-huan-yi-lan/xiu-6539-shan-chu.md)
         * [基本信息](chapter1/wu-ye-fu-wu/ya-jin-tui-huan/ya-jin-tui-huan-yi-lan/ji-ben-xin-xi.md)
-        * [工作推进方法](chapter1/wu-ye-fu-wu/ya-jin-tui-huan/ya-jin-tui-huan-yi-lan/gong-zuo-tui-jin-fang-fa.md)
+        * [工作推进方法说明](chapter1/wu-ye-fu-wu/ya-jin-tui-huan/ya-jin-tui-huan-yi-lan/gong-zuo-tui-jin-fang-fa.md)
         * [回复一览](chapter1/wu-ye-fu-wu/ya-jin-tui-huan/ya-jin-tui-huan-yi-lan/hui-fu-yi-lan.md)
         * [表单：押金退还](chapter1/wu-ye-fu-wu/ya-jin-tui-huan/ya-jin-tui-huan-yi-lan/biao-dan-ff1a-ya-jin-tui-huan.md)
         * [事件](chapter1/wu-ye-fu-wu/ya-jin-tui-huan/ya-jin-tui-huan-yi-lan/shi-jian.md)
       * [押金退还工作票](chapter1/wu-ye-fu-wu/ya-jin-tui-huan/ya-jin-tui-huan-gong-zuo-piao.md)
       * [修改/删除押金退还信息](chapter1/wu-ye-fu-wu/ya-jin-tui-huan/xiu-6539-shan-chu-ya-jin-tui-huan-xin-xi.md)
       * [举例流程说明](chapter1/wu-ye-fu-wu/ya-jin-tui-huan/ju-li-liu-cheng-shuo-ming.md)
-    * 物品放出
-      * 物品放出一览
-        * 修改/删除
-        * 基本信息
-        * 工作推进方法说明
-        * 回复一览
-        * 表单：物品放出
-        * 事件
-      * 物品放出工作票
-      * 修改/删除物品放出信息
-      * 举例说明
+    * [物品放出](chapter1/wu-ye-fu-wu/wu-pin-fang-chu.md)
+      * [物品放出一览](chapter1/wu-ye-fu-wu/wu-pin-fang-chu/wu-pin-fang-chu-yi-lan.md)
+        * [修改/删除](chapter1/wu-ye-fu-wu/wu-pin-fang-chu/wu-pin-fang-chu-yi-lan/xiu-6539-shan-chu.md)
+        * [基本信息](chapter1/wu-ye-fu-wu/wu-pin-fang-chu/wu-pin-fang-chu-yi-lan/ji-ben-xin-xi.md)
+        * [工作推进方法说明](chapter1/wu-ye-fu-wu/wu-pin-fang-chu/wu-pin-fang-chu-yi-lan/gong-zuo-tui-jin-fang-fa-shuo-ming.md)
+        * [回复一览](chapter1/wu-ye-fu-wu/wu-pin-fang-chu/wu-pin-fang-chu-yi-lan/hui-fu-yi-lan.md)
+        * [表单：物品放出](chapter1/wu-ye-fu-wu/wu-pin-fang-chu/wu-pin-fang-chu-yi-lan/biao-dan-ff1a-wu-pin-fang-chu.md)
+        * [事件](chapter1/wu-ye-fu-wu/wu-pin-fang-chu/wu-pin-fang-chu-yi-lan/shi-jian.md)
+      * [物品放出工作票](chapter1/wu-ye-fu-wu/wu-pin-fang-chu/wu-pin-fang-chu-gong-zuo-piao.md)
+      * [修改/删除物品放出信息](chapter1/wu-ye-fu-wu/wu-pin-fang-chu/xiu-6539-shan-chu-wu-pin-fang-chu-xin-xi.md)
+      * 举例流程说明
     * 退租
       * 退租一览
         * 修改/删除
