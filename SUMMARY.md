@@ -77,7 +77,7 @@
       * [修改/删除竣工验收信息](chapter1/wu-ye-fu-wu/xiu-6539-shan-chu-jun-gong-yan-shou-xin-xi.md)
       * [举例流程说明](chapter1/wu-ye-fu-wu/ju-li-liu-cheng-shuo-ming.md)
     * 装修申请
-      * 装修申请一览
+      * [装修申请一览](chapter1/wu-ye-fu-wu/zhuang-xiu-shen-qing-yi-lan.md)
         * 修改/删除
         * 基本信息
         * 工作推进方法说明
