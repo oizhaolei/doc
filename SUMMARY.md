@@ -194,8 +194,8 @@
       * [新建工作票](chapter1/xi-tong-guan-li/xin-jian-gong-zuo-piao.md)
       * [修改/删除工作票信息](chapter1/xi-tong-guan-li/xiu-6539-shan-chu-gong-zuo-piao-xin-xi.md)
     * 管理员
-      * 管理员一览
-      * 新建管理员
-      * 修改/删除管理员信息
+      * [管理员一览](chapter1/xi-tong-guan-li/guan-li-yuan-yi-lan.md)
+      * [新建管理员](chapter1/xi-tong-guan-li/xin-jian-guan-li-yuan.md)
+      * [修改/删除管理员信息](chapter1/xi-tong-guan-li/xiu-6539-shan-chu-guan-li-yuan-xin-xi.md)
     * 角色管理
 
