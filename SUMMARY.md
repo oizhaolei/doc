@@ -2,7 +2,7 @@
 
 * [亿达丽泽智慧园区](README.md)
   * [项目简介](xiang-mu-jian-jie.md)
-* [PC端后台介绍](chapter1.md)
+* [PC端后台系统](chapter1.md)
   * [亿达丽泽智慧园区概览](chapter1/yi-da-li-ze-zhi-hui-yuan-qu-gai-lan.md)
     * [主页面](chapter1/yi-da-li-ze-zhi-hui-yuan-qu-gai-lan/zhu-ye-mian.md)
     * [通知](chapter1/yi-da-li-ze-zhi-hui-yuan-qu-gai-lan/tong-zhi.md)
@@ -234,4 +234,11 @@
     * [版本](yi-dong-fu-wu-duan-ff08-yi-da-li-ze-fu-wu-ff09/ban-ben.md)
     * [隐私保护条款](yi-dong-fu-wu-duan-ff08-yi-da-li-ze-fu-wu-ff09/yin-si-bao-hu-tiao-kuan.md)
     * [退出](yi-dong-fu-wu-duan-ff08-yi-da-li-ze-fu-wu-ff09/tui-chu.md)
+* [CMS后台系统](cmshou-tai-xi-tong.md)
+  * [控制版面](cmshou-tai-xi-tong/kong-zhi-ban-mian.md)
+  * [推荐管理](cmshou-tai-xi-tong/tui-jian-guan-li.md)
+  * [内容管理](cmshou-tai-xi-tong/nei-rong-guan-li.md)
+  * [媒体库](cmshou-tai-xi-tong/mei-ti-ku.md)
+  * [账号设置](cmshou-tai-xi-tong/zhang-hao-she-zhi.md)
+  * [系统设置](cmshou-tai-xi-tong/xi-tong-she-zhi.md)
 
