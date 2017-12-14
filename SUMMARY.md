@@ -198,4 +198,21 @@
       * [新建管理员](chapter1/xi-tong-guan-li/xin-jian-guan-li-yuan.md)
       * [修改/删除管理员信息](chapter1/xi-tong-guan-li/xiu-6539-shan-chu-guan-li-yuan-xin-xi.md)
     * [角色管理](chapter1/xi-tong-guan-li/jiao-se-guan-li.md)
+* [移动服务端（亿达丽泽服务）](yi-dong-fu-wu-duan-ff08-yi-da-li-ze-fu-wu-ff09.md)
+  * [服务](yi-dong-fu-wu-duan-ff08-yi-da-li-ze-fu-wu-ff09/fu-wu.md)
+    * [企业服务](yi-dong-fu-wu-duan-ff08-yi-da-li-ze-fu-wu-ff09/fu-wu/qi-ye-fu-wu.md)
+      * [企业管理](yi-dong-fu-wu-duan-ff08-yi-da-li-ze-fu-wu-ff09/fu-wu/qi-ye-fu-wu/qi-ye-guan-li.md)
+      * 员工管理
+    * 招商中心
+    * 物业服务
+    * 费用相关
+    * 系统管理
+  * 我的
+    * 头像，姓名ID
+    * 个人信息
+    * 通知中心
+    * 待办事项
+    * 版本
+    * 隐私保护条款
+    * 退出
 
