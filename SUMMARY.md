@@ -190,13 +190,12 @@
     * [显示消息](chapter1/xiao-xi-guan-li/xian-shi-xiao-xi.md)
   * [系统管理](chapter1/xi-tong-guan-li.md)
     * 工作票管理
-      * 工作票一览
-      * 新建工作票
-      * 修改/删除工作票信息
+      * [工作票一览](chapter1/xi-tong-guan-li/gong-zuo-piao-yi-lan.md)
+      * [新建工作票](chapter1/xi-tong-guan-li/xin-jian-gong-zuo-piao.md)
+      * [修改/删除工作票信息](chapter1/xi-tong-guan-li/xiu-6539-shan-chu-gong-zuo-piao-xin-xi.md)
     * 管理员
       * 管理员一览
       * 新建管理员
       * 修改/删除管理员信息
     * 角色管理
-  * 通知
 
