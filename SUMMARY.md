@@ -202,7 +202,7 @@
   * [服务](yi-dong-fu-wu-duan-ff08-yi-da-li-ze-fu-wu-ff09/fu-wu.md)
     * [企业服务](yi-dong-fu-wu-duan-ff08-yi-da-li-ze-fu-wu-ff09/fu-wu/qi-ye-fu-wu.md)
       * [企业管理](yi-dong-fu-wu-duan-ff08-yi-da-li-ze-fu-wu-ff09/fu-wu/qi-ye-fu-wu/qi-ye-guan-li.md)
-      * 员工管理
+      * [员工管理](yi-dong-fu-wu-duan-ff08-yi-da-li-ze-fu-wu-ff09/fu-wu/qi-ye-fu-wu/yuan-gong-guan-li.md)
     * 招商中心
     * 物业服务
     * 费用相关
