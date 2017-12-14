@@ -1,4 +1,2 @@
-
-
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+PC端后台管理系统主要用于管理者在后台进行对园区所有工作项目的执行与实施，系统内容丰富。
 
