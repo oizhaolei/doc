@@ -14,7 +14,7 @@
     * [修改/删除建筑](webportal/ji-chu-she-shi/xiu-gai-3002-shan-chu-jian-zhu.md)
   * [企业管理](webportal/qi-ye-guan-li.md)
     * [企业管理](webportal/qi-ye-guan-li/qi-ye-guan-li.md)
-      * [企业信息一览](webportal/qi-ye-guan-li/qi-ye-guan-li/qi-ye-xin-xi-gai-lan.md)
+      * [企业一览](webportal/qi-ye-guan-li/qi-ye-guan-li/qi-ye-xin-xi-gai-lan.md)
         * [基本信息](webportal/qi-ye-guan-li/qi-ye-guan-li/qi-ye-xin-xi-gai-lan/ji-ben-xin-xi.md)
         * [修改/删除](webportal/qi-ye-guan-li/qi-ye-guan-li/qi-ye-xin-xi-gai-lan/xiu-6539-shan-chu.md)
         * [集体充值](webportal/qi-ye-guan-li/qi-ye-guan-li/qi-ye-xin-xi-gai-lan/ji-ti-chong-zhi.md)
