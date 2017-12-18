@@ -59,11 +59,6 @@
       * [举例流程说明](webportal/wu-ye-fu-wu/yin-bi-gong-cheng-yan-shou-shen-qing/ju-li-liu-cheng-shuo-ming.md)
     * 房屋交接
       * [房屋交接一览](webportal/wu-ye-fu-wu/fang-wu-jiao-jie-yi-lan.md)
-        * [修改/删除](webportal/wu-ye-fu-wu/fang-wu-jiao-jie-yi-lan/xiu-6539-shan-chu.md)
-        * [基本信息](webportal/wu-ye-fu-wu/fang-wu-jiao-jie-yi-lan/ji-ben-xin-xi.md)
-        * [工作推进方法说明](webportal/wu-ye-fu-wu/fang-wu-jiao-jie-yi-lan/gong-zuo-tui-jin-fang-fa-shuo-ming.md)
-        * [回复一览](webportal/wu-ye-fu-wu/fang-wu-jiao-jie-yi-lan/hui-fu-yi-lan.md)
-        * [表单：房屋交接](webportal/wu-ye-fu-wu/fang-wu-jiao-jie-yi-lan/biao-dan-ff1a-fang-wu-jiao-jie.md)
       * [房屋交接工作票](webportal/wu-ye-fu-wu/fang-wu-jiao-jie-gong-zuo-piao.md)
       * [修改/删除房屋交接信息](webportal/wu-ye-fu-wu/xiu-6539-shan-chu-fang-wu-jiao-jie-xin-xi.md)
       * [举例流程说明](webportal/wu-ye-fu-wu/ju-li-liu-cheng-shuo-ming.md)
