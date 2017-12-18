@@ -39,12 +39,6 @@
       * [举例流程说明](webportal/wu-ye-fu-wu/tou-su-jian-yi/ju-li-liu-cheng-shuo-ming.md)
     * 竣工验收
       * [竣工验收一览](webportal/wu-ye-fu-wu/jun-gong-yan-shou-yi-lan.md)
-        * [修改/删除](webportal/wu-ye-fu-wu/jun-gong-yan-shou-yi-lan/xiu-6539-shan-chu.md)
-        * [基本信息](webportal/wu-ye-fu-wu/jun-gong-yan-shou-yi-lan/ji-ben-xin-xi.md)
-        * [工作推进方法说明](webportal/wu-ye-fu-wu/jun-gong-yan-shou-yi-lan/gong-zuo-tui-jin-fang-fa-shuo-ming.md)
-        * [回复一览](webportal/wu-ye-fu-wu/jun-gong-yan-shou-yi-lan/hui-fu-yi-lan.md)
-        * [表单：竣工验收](webportal/wu-ye-fu-wu/jun-gong-yan-shou-yi-lan/biao-dan-ff1a-jun-gong-yan-shou.md)
-        * [事件](webportal/wu-ye-fu-wu/jun-gong-yan-shou-yi-lan/shi-jian.md)
       * [竣工验收工作票](webportal/wu-ye-fu-wu/jun-gong-yan-shou-gong-zuo-piao.md)
       * [修改/删除竣工验收信息](webportal/wu-ye-fu-wu/xiu-6539-shan-chu-jun-gong-yan-shou-xin-xi.md)
       * [举例流程说明](webportal/wu-ye-fu-wu/ju-li-liu-cheng-shuo-ming.md)
