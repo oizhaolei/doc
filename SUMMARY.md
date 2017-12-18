@@ -74,12 +74,6 @@
       * [举例流程说明](webportal/wu-ye-fu-wu/yu-yue-can-guan/ju-li-shuo-ming.md)
     * 入驻
       * [入驻一览](webportal/wu-ye-fu-wu/ru-zhu-yi-lan.md)
-        * [修改/删除](webportal/wu-ye-fu-wu/ru-zhu-yi-lan/xiu-6539-shan-chu.md)
-        * [基本信息](webportal/wu-ye-fu-wu/ru-zhu-yi-lan/ji-ben-xin-xi.md)
-        * [工作推进方法说明](webportal/wu-ye-fu-wu/ru-zhu-yi-lan/gong-zuo-tui-jin-fang-fa-shuo-ming.md)
-        * [回复一览](webportal/wu-ye-fu-wu/ru-zhu-yi-lan/hui-fu-yi-lan.md)
-        * [表单：入驻](webportal/wu-ye-fu-wu/ru-zhu-yi-lan/biao-dan-ff1a-ru-zhu.md)
-        * [事件](webportal/wu-ye-fu-wu/ru-zhu-yi-lan/shi-jian.md)
       * [入驻工作票](webportal/wu-ye-fu-wu/ru-zhu-gong-zuo-piao.md)
       * [修改/删除入驻信息](webportal/wu-ye-fu-wu/xiu-6539-shan-chu-ru-zhu-xin-xi.md)
       * [举例流程说明](webportal/wu-ye-fu-wu/ju-li-shuo-ming.md)
