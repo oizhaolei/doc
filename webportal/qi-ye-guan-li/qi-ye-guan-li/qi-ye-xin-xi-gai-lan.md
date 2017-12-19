@@ -1,33 +1,33 @@
 * 企业一览![](/assets/企业管理.png)点击左侧「企业管理」下「企业管理」，进入企业一览界面，显示（包括企业名称，法人代表，成立日期，操作）。
 
-* 企业信息 ![](blob:https://www.gitbook.com/ea78b8be-2bac-4d38-b87e-87c6d6dd05fa)
+* 企业信息 ![](https://www.gitbook.com/ea78b8be-2bac-4d38-b87e-87c6d6dd05fa)
 
 进入企业一览界面，点击任意企业，即可获取企业信息。
 
-![](blob:https://www.gitbook.com/dd276af7-9f98-4072-9b00-d04597a326c2)
+![](https://www.gitbook.com/dd276af7-9f98-4072-9b00-d04597a326c2)
 
 进入企业详情界面，显示企业信息（包括企业信息，企业员工列表，水电抄表列表）。
 
 * 修改/删除  
-  ![](blob:https://www.gitbook.com/99561595-7b49-401d-8f58-e3d763917321)
+  ![](https://www.gitbook.com/99561595-7b49-401d-8f58-e3d763917321)
 
   点击任意企业，进入企业详情界面，点击左上方绿色「修改」，即可修改企业信息。
 
-  ![](blob:https://www.gitbook.com/3e0d1dd7-b5e3-4a0c-8fef-21c6f8762f60)
+  ![](https://www.gitbook.com/3e0d1dd7-b5e3-4a0c-8fef-21c6f8762f60)
 
   进入修改界面，即可修改企业信息（包括企业名称，租用位置，产品名称，产品性质，行业类型，员工数，投资规模，法人代表，成立日期，企业网址，电表表号，能好类别，电表位置，其他）。
 
-  ![](blob:https://www.gitbook.com/e643832b-10e6-4f4c-aedf-ce2cd1615918)
+  ![](https://www.gitbook.com/e643832b-10e6-4f4c-aedf-ce2cd1615918)
 
   进入企业详情界面，点击左上角红色「删除」，即可删除企业信息。
 
 * 集体充值  
-  ![](blob:https://www.gitbook.com/28d44ffb-1624-4cb0-a226-365851e118e1)
+  ![](https://www.gitbook.com/28d44ffb-1624-4cb0-a226-365851e118e1)
 
   点击任意企业，进入企业详情界面，点击左上方黄色「集体充值」，即可实现集体充值功能（尚未开启）。
 
 * 企业员工列表  
-  ![](blob:https://www.gitbook.com/762f269e-df3a-4119-8834-f07f470d8c38)
+  ![](https://www.gitbook.com/762f269e-df3a-4119-8834-f07f470d8c38)
 
   点击任意企业，进入企业详情界面，右上方「企业员工列表」，可添加或查询企业员工。
 
